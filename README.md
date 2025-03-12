@@ -1,4 +1,4 @@
-# awesome-exb
+# Awesome EXB
 List of ESRI Experience Builder community widgets
 
 | Widget | Link | Description | 
